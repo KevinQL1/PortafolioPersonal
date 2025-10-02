@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
     ? {
         output: "export",
         basePath: "/PortafolioPersonal",
+        assetPrefix: "/PortafolioPersonal",
         images: { unoptimized: true },
       }
     : {}),
