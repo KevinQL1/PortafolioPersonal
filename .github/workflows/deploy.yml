@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build project
+      - name: Build project (Next.js export)
         run: npm run build
 
       - name: Deploy to GitHub Pages
