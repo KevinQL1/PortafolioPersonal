@@ -5,7 +5,7 @@ export const metadata = {
   title: 'Mi Portafolio',
   description: 'Portafolio de desarrollador',
   icons: {
-    icon: '/vs_code.png',
+    icon: '/PortafolioPersonal/vs_code.png',
   },
 }
 

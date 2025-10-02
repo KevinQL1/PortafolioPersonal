@@ -28,7 +28,7 @@ export default function About() {
           </p>
           <p className="leading-relaxed mt-4">
             <a
-              href="/CV-KevinAlexanderQuinteroLondono.pdf"
+              href="/PortafolioPersonal/CV-KevinAlexanderQuinteroLondono.pdf"
               download
               className="hover:text-blue-700 hover:underline"
             >

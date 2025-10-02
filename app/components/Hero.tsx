@@ -5,7 +5,7 @@ export default function Hero() {
       className="min-h-screen flex flex-col items-center justify-center text-center"
     >
       <img
-        src="/foto_perfil.jpeg"
+        src="/PortafolioPersonal/foto_perfil.jpeg"
         alt="Foto de Kevin"
         className="w-40 h-40 rounded-full border-4 border-blue-400 object-cover mb-20"
       />
