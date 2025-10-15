@@ -50,7 +50,6 @@ export default function Navbar() {
           <ul className="flex flex-col space-y-4 p-4 font-medium">
             <li><a href="#home" onClick={toggleMenu}>Inicio</a></li>
             <li><a href="#about" onClick={toggleMenu}>Sobre mí</a></li>
-            <li><a href="#projects" onClick={toggleMenu}>Proyectos</a></li>
             <li><a href="#skills" onClick={toggleMenu}>Habilidades</a></li>
             <li><a href="#contact" onClick={toggleMenu}>Contacto</a></li>
             <li>
