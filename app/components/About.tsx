@@ -5,12 +5,12 @@ export default function About() {
         <h2 className="text-3xl font-bold">Sobre mí</h2>
         <div className="mt-8 p-6 rounded-lg shadow-lg inline-block">
           <p className="leading-relaxed">
-            Soy Ingeniero Informático en formación, actualmente en espera de
-            graduación. Cuento con más de 4 años de experiencia en el
+            Soy Ingeniero Informático y Técnico en sistemas. 
+            Cuento con más de 4 años de experiencia en el
             desarrollo de aplicaciones web y soluciones empresariales,
             trabajando tanto en entornos cloud como en entornos on-premise con
             servidores físicos. Actualmente me desempeño como Analista de
-            Desarrollo, donde participo en la creación e integración de
+            Desarrollo senior, donde participo en la creación e integración de
             microservicios, pruebas unitarias y de integración con Jest, además
             de despliegues automatizados mediante CI/CD pipelines. Tengo
             experiencia en el uso de Node.js, Serverless, DynamoDB, JavaScript
@@ -28,7 +28,7 @@ export default function About() {
           </p>
           <p className="leading-relaxed mt-4">
             <a
-              href="/PortafolioPersonal/CV-KevinAlexanderQuinteroLondono.pdf"
+              href="/PortafolioPersonal/CV Alto Impacto Kevin Alexander Quintero Londoño.pdf"
               download
               className="hover:text-blue-700 hover:underline"
             >
